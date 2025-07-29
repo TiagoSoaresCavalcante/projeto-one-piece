@@ -1,0 +1,17 @@
+/*
+*
+* @Athor : Tiago Soares
+*
+*/
+/* REST DE PADRÕES DO NAVEGADOR
+---------------------------*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* RESET DA TAG UL
+---------------------------*/
+ul {
+    list-style: none;
+}
